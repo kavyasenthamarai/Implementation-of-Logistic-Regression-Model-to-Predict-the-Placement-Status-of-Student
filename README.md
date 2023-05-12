@@ -93,10 +93,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ### 1.Placement data
 ![image](https://github.com/kavyasenthamarai/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118668727/69b03db1-19e6-4d51-a9df-99b5b9542b23)
 
-# 2.Salary data
+### 2.Salary data
 ![image](https://github.com/kavyasenthamarai/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118668727/08f2348a-5398-4ef0-ae49-4f64bba605be)
 
-# 3.Checking the null() function
+### 3.Checking the null() function
 ![image](https://github.com/kavyasenthamarai/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118668727/4756c165-4eda-461c-8ceb-a1743936df0b)
 
 # 4.Data Duplicate
